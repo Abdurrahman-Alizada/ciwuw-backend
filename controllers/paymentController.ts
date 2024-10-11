@@ -285,7 +285,7 @@ const processRefund = async (req: Request, res: Response) => {
         role: whom.role,
       },
     });
-  } catch (error) {
+  } catch (error:any) {
     res.status(500).json({ message: error.message });
     await createLog({
       dateTime: new Date(),

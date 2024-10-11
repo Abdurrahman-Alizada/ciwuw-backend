@@ -4,7 +4,7 @@
 	"description": "",
 	"main": "index.ts",
 	"scripts": {
-		"build": "npx tsc",
+		"build": "npm install && npx tsc",
 		"start": "nodemon --exec ts-node index.ts",
 		"dev": "concurrently \"npx tsc --watch\" \"nodemon -q dist/index.ts\""
 	},

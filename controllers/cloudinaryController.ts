@@ -14,7 +14,7 @@ export const uploadImage = async (req: Request, res: Response) => {
   try {
     const result = await cloudinary.v2.uploader.upload(req.file.path);
     res.status(200).json(result);
-  } catch (error) {
+  } catch (error:any) {
     res.status(500).json({ error: error.message });
   }
 };
@@ -24,7 +24,7 @@ export const deleteImage = async (req: Request, res: Response) => {
   try {
     await cloudinary.v2.uploader.destroy(public_id);
     res.status(200).send("Image deleted successfully");
-  } catch (error) {
+  } catch (error:any) {
     res.status(500).json({ error: error.message });
   }
 };
