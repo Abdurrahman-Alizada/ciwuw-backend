@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ciwuw-prod",
+  "private_key_id": "c2927374d3127beb9556a0ab945d29b9be4d1cb2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDl5Zdq4/3o6eU1\n3ARQRKrJrV7ALLwReNA06jsrIOBr/gj8Li18hPEqZAj0AqV7UdEef9sC2j59cncB\nVZKhy0mSzUoE8CrZ2LHyoPYTIWBP+lUEGOusElc/rzFmnWKRQu/+rGUwOSOpnIlR\ne+u9zvGJjn1nXsAi48+pMyTdzFO15xX/HcgrAtQ9D3HG48kJJ7JJgVruOlNa3578\ngjRC9QCVQxPDFJIdx33zLcVP/GgwMZiWWDf5Ziu7IKpxImnYFcwSMEfwDqlGYFXG\nuf9laRnKFLVq5uuYOXzUKb5BDioBs64in/nd6AaQaJR40k6fltWfmqUrdwiz3SRd\nYog3bGZVAgMBAAECggEACbeEiN4OE1QffgFIpWPhnBiZ0qGRaWOj2Ti1O4NuOOJJ\n2u7QuVydHN+RiU67U9UHc7SPuzUiQwcdhI7rXa9L8sp+gGruRLrl+o1XGUPl4DuC\ncGPlQiacTXLIMcAhNGaR4j/DHyCrIzYcj7cfJayjhN7i6gWVNWRPmKUyv7UtLJj9\nSjtEJVWB6UwyHOIVgN6bw/T1o2vudAaHU7B4JoXm1Nim/A+aLforr9e8qVObL3fC\nJSV+DB0uwAFiB5RrY8Dxzvk+BboI+DLF6JhUJmRPa6erUIRmZ6yR7YyCLS1Ef6+E\nT5iEMhY9N5k56+YoaUEQuLiSwnYxKrEQ+rbP23/rQQKBgQD/SYd5ELQ2mfUQxjn1\nGPXZaVo1bsBzlQvCnuFGZWMBPUBJQCBUL7d5bWKCR0sCM7QUsigGGpacljJHxzT3\n5CyoG4ZHQD2axTPgIaAdjBRRsGtlsL7+uflaHIhN0ZtvtsU7dlEbzpL8RgqBUidr\ndrM/rj4Ocxn1uf1HmatRudPeHQKBgQDmieoBal+wyStwPpDWzrqRed7pk0sfLQ+f\niLbwi94Ge7t1mu3AGCxUL7aDcafsojPNAN8gKY5qnxi1wG+qfz9Qs6fgns5nkyBv\nazma/VT726PcjmA3Kn+SWSNnxu19ZJ9WeZYMlUyaG+6pgTsILnuGQFo73ol4L3Sv\n3olSAKqTmQKBgBwH2tQ0PVVxejMpUNvUrcn9g2Yyjvch+nSYNWwhXcmZDCH+5I3Z\n3295z0M2yMmpG7DaDwL8kGUJKOQwv2Qora6XtxrDtv/zf0qw5n/YDbMah/BWg+I8\nUWDPmTfSOBsAGo/44dcHy6PfnO+uMZ3fHrdzTmUPxl3w2hquiN0kZlsRAoGANJp/\nhLcrAoHEoaYFEp61P4CZdp6fY4u6puJhK94eWUhea+VgHpbldog0kyWZ9YrFWx+5\nyfLxhi6rSr2QPU0vu1BjHAPggQ23NvU2fcEUZSum5iqulafi2Bfy1jkz84rEOM0h\nidl/UyLQgGj2eVVx5h5E+Kg8oeniLEcQ+l8gjPECgYEAvK8Fa/lD72qH8ymOKLkR\nvDfTobl4D+vDGtfiEfQMyYMbLJEgQbxZQ8TjiPz7mkwU7mGjOpJ4VqeRYV2QIwqM\njt77PjXgmn3ZgUn76zTn5hWJgyIlkVBqpNXnNQc1q4SOTacH6gwXqLTHetgeSLyI\nbOICUNFKaQUenIQA4+cTAa8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "ciwuw-service@ciwuw-prod.iam.gserviceaccount.com",
+  "client_id": "110264099233324565703",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ciwuw-service%40ciwuw-prod.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

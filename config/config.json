@@ -1,0 +1,35 @@
+[
+	{
+		"userId": "5bab627a-7200-4988-a07c-d959122e22c7",
+		"username": "zabardash5577",
+		"email": "hlirefo6645@comsb.com",
+		"password": "pakistan12345"
+	},
+	{
+		"userId": "4dc8d9ef-3b17-4fbd-a46d-2411ce360847",
+		"username": "John Doe",
+		"email": "gewibe5492@cmheia.com",
+		"password": "pakistan12345"
+	},
+	{
+		"userId": "89d9625f-bdb6-4675-a2c2-ba46c49d6f1b",
+		"username": "khan",
+		"email": "khan123@gmail.com",
+		"password": "123456",
+		"userType": "user"
+	},
+	{
+		"userId": "237ea27d-7af7-4b0e-953c-9933cb3218d5",
+		"username": "ahmad9384",
+		"email": "womifas783@noefa.com",
+		"password": "123456",
+		"userType": "customer"
+	},
+	{
+		"userId": "19b893c7-d9d0-437a-a259-b30d965b8bd4",
+		"username": "ahmad9384",
+		"email": "womifas783@noefa.com",
+		"password": "123456",
+		"userType": "customer"
+	}
+]

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Cart Reminder</title>
+  </head>
+  <body style="font-family: Arial, sans-serif; padding: 20px; color: black">
+    <div style="max-width: 600px; margin: auto">
+      <h2 style="text-align: center; color: #333">
+        Reminder: Items Waiting in Your Cart!
+      </h2>
+      <p>Dear {{username}},</p>
+      <p>
+        You have items in your cart that have been there for more than
+        {{timeFrame}}.
+      </p>
+      <p>We noticed these items are still waiting for you:</p>
+
+      <div class="items-list" style="padding-left: 20px">{{itemsList}}</div>
+
+      <p style="text-align: center">
+        <a
+          href="{{cartUrl}}"
+          style="
+            background-color: #007bff;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+          "
+          >Go to Cart</a
+        >
+      </p>
+
+      <p>Thank you for shopping with us!</p>
+      <p style="color: #888">Call It What You Wanna Team</p>
+    </div>
+  </body>
+</html>
