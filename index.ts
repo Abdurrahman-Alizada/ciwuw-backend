@@ -1,4 +1,4 @@
-import express from "express";
+import express, {Request, Response} from "express";
 import bodyParser from "body-parser";
 import routes from "./routes/index";
 import cors from "cors";
@@ -29,6 +29,9 @@ app.use("/", routes);
 
 app.listen(PORT, () => {
   console.log(`Server is running on http://localhost:${PORT}`);
+});
+app.get("/", (req: Request, res: Response) => {
+  res.status(200).send("Hello World from lanza jobs backend");
 });
 
 // stripe webhook url
